@@ -4,6 +4,10 @@ A premium, single-page HTML landing template for **VitalApp**, a health and fitn
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## 🎨 Design System
 
 | Token | Value | Usage |
